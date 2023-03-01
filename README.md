@@ -2,11 +2,15 @@
   
 <img src="https://github.com/artem-maslov/artem-maslov/blob/main/resources/6ywG.gif" width="250" height="250"/>
 
-<div align="center">
+
 
 ### Hi there 👋
 
+</div>
+
 My name is Artem, glad to see you on my page! Right now I'm a junior Data Analyst, but I aspire to become a real professional. 
+
+</div>
 
 **Contact info:**
 * E-mail: artem.evgenyevich.maslov@gmail.com

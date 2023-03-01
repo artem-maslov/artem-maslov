@@ -7,8 +7,6 @@
 
 My name is Artem, glad to see you on my page! Right now I'm a junior Data Analyst, but I aspire to become a real professional.  
   
-<br>  
-<br>
 </div>
 <br>
 <br>

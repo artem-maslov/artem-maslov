@@ -1,5 +1,8 @@
-
+<div align="center">
+  
 <img src="https://github.com/artem-maslov/artem-maslov/blob/main/resources/6ywG.gif" width="250" height="250"/>
+
+<div align="center">
 
 ### Hi there 👋
 

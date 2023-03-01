@@ -1,5 +1,5 @@
 
-<img src="https://github.com/artem-maslov/artem-maslov/blob/main/resources/6ywG.gif" width="25" height="25"/>
+<img src="https://github.com/artem-maslov/artem-maslov/blob/main/resources/6ywG.gif" width="250" height="250"/>
 
 ### Hi there 👋
 

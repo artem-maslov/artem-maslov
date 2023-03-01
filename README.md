@@ -5,10 +5,9 @@
   
 ## Hello world ✌
 
+My name is Artem, glad to see you on my page! Right now I'm a junior Data Analyst, but I aspire to become a real professional.  
+  
 </div>
-
-My name is Artem, glad to see you on my page! Right now I'm a junior Data Analyst, but I aspire to become a real professional.     
-
 
 
 **🦾 My stack:**
@@ -17,24 +16,19 @@ My name is Artem, glad to see you on my page! Right now I'm a junior Data Analys
 * BI (Superset)
 * Airflow
 * Redash
-
-
-
-
-  
+ 
 
 **✨ Here is my portfolio and pet projects:**
 * [data_analyst_simulator_KC](https://github.com/artem-maslov/data_analyst_simulator_KC)
 * [my_online_school](https://github.com/artem-maslov/my_online_school)
 
 
-
-
-
 **📫 Contact info:**
 * E-mail: artem.evgenyevich.maslov@gmail.com
 * Linkedin: [artem-maslov-3686521b6](https://www.linkedin.com/in/artem-maslov-3686521b6/)
 * Telegram: [@dhVsQ7lxw9](https://t.me/dhVsQ7lxw9)
+
+
 
 
 

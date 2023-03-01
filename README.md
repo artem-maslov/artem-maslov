@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Artem, glad to see you on my page! Right now I'm a junior Data Analyst, but I aspire to become a real professional. 
+
+**Contact info:**
+* E-mail: artem.evgenyevich.maslov@gmail.com
+* Telegram: [@dhVsQ7lxw9]([https://t.me/evg_dbrvn](https://t.me/dhVsQ7lxw9))
+
+
+
 <!--
 **artem-maslov/artem-maslov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

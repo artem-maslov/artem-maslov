@@ -17,6 +17,9 @@ My name is Artem, glad to see you on my page! Right now I'm a junior Data Analys
 * BI (Superset)
 * Airflow
 * Redash
+* Git
+* Jupiter Notebook
+* Excel
  
 
 **✨ Here is my portfolio and pet projects:**

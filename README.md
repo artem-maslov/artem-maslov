@@ -1,25 +1,32 @@
 <div align="center">
   
-<img src="https://github.com/artem-maslov/artem-maslov/blob/main/resources/6ywG.gif" width="250" height="250"/>
+<img src="https://github.com/artem-maslov/artem-maslov/blob/main/resources/4yd.gif?raw=true" width="250" height="250"/>
 
   
 ### Hello world ✌
 
-  
-</div>
 
+<div align="center">
 
 My name is Artem, glad to see you on my page! Right now I'm a junior Data Analyst, but I aspire to become a real professional. 
 
+**🦾 My stack: 🦾**
+* SQL (Podtgres, Clickhouse, MySQL)
+* Python (Pandas, Seaborn, Matplotlib, Numpy)
+* BI (Superset)
+* Airflow
+* Redash
+
+  
 
 **✨ Here is my portfolio and pet projects: ✨**
 * [data_analyst_simulator_KC](https://github.com/artem-maslov/data_analyst_simulator_KC)
 * [my_online_school](https://github.com/artem-maslov/my_online_school)
 
 </div>
+</div>
+</div>
 
-
-📞
 **📫 Contact info: 📫**
 * E-mail: artem.evgenyevich.maslov@gmail.com
 * Linkedin: [artem-maslov-3686521b6](https://www.linkedin.com/in/artem-maslov-3686521b6/)

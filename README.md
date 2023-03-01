@@ -12,9 +12,9 @@ My name is Artem, glad to see you on my page! Right now I'm a junior Data Analys
 <br>
 
 **🦾 My stack:**
-* SQL (Podtgres, Clickhouse, MySQL)
+* SQL (Postgres, Clickhouse, MySQL)
 * Python (Pandas, Seaborn, Matplotlib, Numpy)
-* BI (Superset)
+* BI (Superset, Power BI, Tableau)
 * Airflow
 * Redash
 * Git

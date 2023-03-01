@@ -1,3 +1,5 @@
+![Header](https://github.com/artem-maslov/artem-maslov/blob/main/resources/6ywG.gif?raw=true)
+
 ### Hi there 👋
 
 My name is Artem, glad to see you on my page! Right now I'm a junior Data Analyst, but I aspire to become a real professional. 

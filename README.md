@@ -23,7 +23,7 @@ My name is Artem, glad to see you on my page! Right now I'm a junior Data Analys
  
 
 **✨ Here is my portfolio and pet projects:**
-* [data_analyst_simulator_KC](https://github.com/artem-maslov/data_analyst_simulator_KC)
+* [data_analyst_simulator](https://github.com/artem-maslov/data_analyst_simulator)
 * [online_school](https://github.com/artem-maslov/online_school)
 * [mobile_app](https://github.com/artem-maslov/mobile_app)
 

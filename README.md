@@ -22,12 +22,6 @@ My name is Artem, glad to see you on my page! Right now I'm a junior Data Analys
 * Excel
  
 
-**✨ Here is my portfolio and pet projects:**
-* [data_analyst_simulator](https://github.com/artem-maslov/data_analyst_simulator)
-* [online_school](https://github.com/artem-maslov/online_school)
-* [mobile_app](https://github.com/artem-maslov/mobile_app)
-
-
 **📫 Contact info:**
 * Email: artem.evgenyevich.maslov@gmail.com
 * Linkedin: [artem-maslov-3686521b6](https://www.linkedin.com/in/artem-maslov-3686521b6/)
